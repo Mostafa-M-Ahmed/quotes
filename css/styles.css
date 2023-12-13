@@ -1,0 +1,7 @@
+.home .btn:hover{
+    background-color: inherit;
+    color: #212529;
+}
+.container{
+    height: 100vh;
+}
